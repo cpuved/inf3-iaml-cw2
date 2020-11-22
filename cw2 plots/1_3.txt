@@ -1,0 +1,1 @@
+Explained variances of first 5 components: [19.80980567 12.11221047  4.10615661  3.38182839  2.62477022]

@@ -1,0 +1,33 @@
+K = 1
+Training data - Cov type diag , score: 14.280416117561785
+Test data data - Cov type diag , score: 13.842923924145325
+Training data - Cov type full , score: 16.39360043614829
+Test data data - Cov type full , score: 15.810511543142642
+
+
+K = 3
+Training data - Cov type diag , score: 15.398429743214336
+Test data data - Cov type diag , score: 15.04074826506394
+Training data - Cov type full , score: 18.08600493814516
+Test data data - Cov type full , score: 17.066076255632257
+
+
+K = 5
+Training data - Cov type diag , score: 16.010388761796378
+Test data data - Cov type diag , score: 15.90854610007615
+Training data - Cov type full , score: 19.03572395191873
+Test data data - Cov type full , score: 16.489426463741562
+
+
+K = 10
+Training data - Cov type diag , score: 16.916504763220765
+Test data data - Cov type diag , score: 16.567565210557202
+Training data - Cov type full , score: 21.062020341621178
+Test data data - Cov type full , score: 14.621763240167146
+
+
+K = 15
+Training data - Cov type diag , score: 17.504626881181643
+Test data data - Cov type diag , score: 16.90167947839096
+Training data - Cov type full , score: 22.78602299592489
+Test data data - Cov type full , score: 11.847976289631205

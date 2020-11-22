@@ -1,0 +1,2 @@
+First 4 elems from the first sample: [-3.13725490e-06 -2.26797386e-05 -1.17973856e-04 -4.07058824e-04]
+First 4 elems from the last sample:  [-3.13725490e-06 -2.26797386e-05 -1.17973856e-04 -4.07058824e-04]

@@ -1,0 +1,2 @@
+Train score: 0.9084166666666667
+Test score: 0.8765

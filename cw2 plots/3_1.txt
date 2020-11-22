@@ -1,0 +1,24 @@
+Sum of squared distances of samples to their closest cluster centre: 38185.816951386696
+Number of samples for each cluster:
+# of samples in cluster  0 :  1018
+# of samples in cluster  1 :  1125
+# of samples in cluster  2 :  1191
+# of samples in cluster  3 :  890
+# of samples in cluster  4 :  1162
+# of samples in cluster  5 :  1332
+# of samples in cluster  6 :  839
+# of samples in cluster  7 :  623
+# of samples in cluster  8 :  1400
+# of samples in cluster  9 :  838
+# of samples in cluster  10 :  659
+# of samples in cluster  11 :  1276
+# of samples in cluster  12 :  121
+# of samples in cluster  13 :  152
+# of samples in cluster  14 :  950
+# of samples in cluster  15 :  1971
+# of samples in cluster  16 :  1251
+# of samples in cluster  17 :  845
+# of samples in cluster  18 :  896
+# of samples in cluster  19 :  930
+# of samples in cluster  20 :  1065
+# of samples in cluster  21 :  1466
